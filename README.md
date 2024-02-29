@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in Back-end Dev & Automations
-- 🌱 I’m currently learning Node JS Runtime
+- 🌱 I’m currently learning Cloud Architechture
 - 📫 How to reach me : hello@karanprasad.com
 
 <!---
